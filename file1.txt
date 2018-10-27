@@ -1,1 +1,7 @@
 #first document
+
+new things 1 maybe ?
+
+#second document
+
+please see file2.txt for the second document
