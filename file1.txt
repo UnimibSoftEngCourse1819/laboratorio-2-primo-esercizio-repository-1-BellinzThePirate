@@ -1,7 +1,14 @@
 #first document
 
+<<<<<<< HEAD
 new things 1 maybe ?
 
 #second document
 
 please see file2.txt for the second document
+=======
+having fun maybe ?
+
+#third ducument 
+new things in doc 3
+>>>>>>> 25edd50bbe935d5b939923dce1e19aeee291facf
