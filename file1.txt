@@ -1,3 +1,6 @@
 #first document
 
 having fun maybe ?
+
+#third ducument 
+new things in doc 3
